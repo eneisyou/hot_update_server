@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.62f1
+CRC: 1396039693
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e4ac3ef8e6891157bc5af9f9b7b8dd2f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 03e31d4b4fa5a7eec2c4036e5fa0c41f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8a971070852c2fef6cc8658d09e2471f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9a7676b01585ce43908639a27765dfc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a1bc992571301d4a9602ac95ef4c71a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43f86b14a27b52f4f9298c33015b5c26, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 328
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.Grab.PoseMeasureParameters
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.GrabAPI.GrabbingRule
+Assets:
+- Assets/Prefabs/Node1.prefab
+- Assets/Videos/beach.mp4
+Dependencies: []

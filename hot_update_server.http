@@ -1,0 +1,6 @@
+@hot_update_server_HostAddress = http://localhost:5177
+
+GET {{hot_update_server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

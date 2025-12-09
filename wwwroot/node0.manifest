@@ -1,0 +1,265 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.62f1
+CRC: 2323223594
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3248729d4a4dfb75e27cfdc638d26c61
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d8e72e6456df6096be138769ec802f7f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 25a275c04b6ef98e40290e8dcf9adda1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d77c0fe66c705c541ada54398115658d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 821e0316d7a5d5a4abd3d9a0032114ce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc431cfe17541402a8776950ba5773ec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56549cdaaf4d81e4387b02698fd3daa0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 317e663e2bb60ea408fe22b908b59295, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ab5b1ee128b6be14b923bed5a431b907, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 28779cfed47441a42a6cd4fb49c8dc89, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9a7676b01585ce43908639a27765dfc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a1bc992571301d4a9602ac95ef4c71a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4bd1f1e23a51a7d428dd152466736b7a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f5626a0b1dc955a43be59ce7ea116678, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d1c2918ba0e7451694416d42d69e0944, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efd927768041afd4d90e5d822283f0f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c38e48a5da5b94e93b48fd7401a89f89, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fafe2cfe61f6974895a912c3755e8f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae5a46bda3295124c99b0e6537ac7252, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1918f59d4c3ccf048b0809826fa24a05, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec472db9c42ccc342a2d35777d25c03d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ffe41fe81087fa41a2062cc69b99615, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e08ab46e8fb05dc46b34e54466dc11e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43f86b14a27b52f4f9298c33015b5c26, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f676cd6e3192c44a9a21ed19b21ed945, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 98c98c657feb956428aa12a4b798bde6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3df646280e35d4a91a1743fc93bde0a6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d02efd1dd7ee874294db5cedd098de1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9cf2a74d69b1c1e41916d2a7afdff5be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bb86ba9d4c5126e48bfef9b0c9550e9d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 02d3e9a43270a4a87b847b22ed2a2cb3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Meta.WitAi.Lib
+  ClassName: Meta.WitAi.Data.Info.WitAppInfo
+- AssemblyName: Meta.WitAi.Lib
+  ClassName: Meta.WitAi.Data.Info.WitEntityInfo
+- AssemblyName: Meta.WitAi.Lib
+  ClassName: Meta.WitAi.Data.Info.WitEntityKeywordInfo
+- AssemblyName: Meta.WitAi.Lib
+  ClassName: Meta.WitAi.Data.Info.WitEntityRoleInfo
+- AssemblyName: Meta.WitAi.Lib
+  ClassName: Meta.WitAi.Data.Info.WitIntentEntityInfo
+- AssemblyName: Meta.WitAi.Lib
+  ClassName: Meta.WitAi.Data.Info.WitIntentInfo
+- AssemblyName: Meta.WitAi.Lib
+  ClassName: Meta.WitAi.Data.Info.WitVoiceInfo
+- AssemblyName: Meta.WitAi
+  ClassName: Meta.Voice.Net.PubSub.PubSubResponseOptions
+- AssemblyName: Meta.WitAi
+  ClassName: Meta.Voice.Net.PubSub.PubSubSettings
+- AssemblyName: Meta.WitAi
+  ClassName: Meta.Voice.UserTranscriptionRequestEvent
+- AssemblyName: Meta.WitAi
+  ClassName: Meta.WitAi.Configuration.WitEndpointConfig
+- AssemblyName: Meta.WitAi
+  ClassName: Meta.WitAi.Configuration.WitRuntimeConfiguration
+- AssemblyName: Meta.WitAi
+  ClassName: Meta.WitAi.Events.VoiceEvents
+- AssemblyName: Meta.WitAi
+  ClassName: Meta.WitAi.Events.VoiceServiceRequestEvent
+- AssemblyName: Meta.WitAi
+  ClassName: Meta.WitAi.Events.WitByteDataEvent
+- AssemblyName: Meta.WitAi
+  ClassName: Meta.WitAi.Events.WitErrorEvent
+- AssemblyName: Meta.WitAi
+  ClassName: Meta.WitAi.Events.WitMicLevelChangedEvent
+- AssemblyName: Meta.WitAi
+  ClassName: Meta.WitAi.Events.WitRequestCreatedEvent
+- AssemblyName: Meta.WitAi
+  ClassName: Meta.WitAi.Events.WitRequestOptionsEvent
+- AssemblyName: Meta.WitAi
+  ClassName: Meta.WitAi.Events.WitResponseEvent
+- AssemblyName: Meta.WitAi
+  ClassName: Meta.WitAi.Events.WitTranscriptionEvent
+- AssemblyName: Meta.WitAi
+  ClassName: Meta.WitAi.Events.WitValidationEvent
+- AssemblyName: Oculus.Interaction.Samples
+  ClassName: Oculus.Interaction.UITheme/ElementColors
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.Grab.PoseMeasureParameters
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.GrabAPI.GrabbingRule
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.PokeInteractable/DragThresholdsConfig
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.PokeInteractable/MinThresholdsConfig
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.PokeInteractable/PositionPinningConfig
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.PokeInteractable/RecoilAssistConfig
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.ProgressCurve
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`1
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.LowLevel.GlyphAdjustmentRecord
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.LowLevel.GlyphPairAdjustmentRecord
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.LowLevel.GlyphValueRecord
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Toggle/ToggleEvent
+Assets:
+- Assets/Wit/ChConfig.asset
+- Assets/Prefabs/Node0.prefab
+- Assets/Assemblies/Assembly-CSharp.dll.bytes
+- Assets/Assemblies/System.dll.bytes
+- Assets/Assemblies/System.Core.dll.bytes
+- Assets/Assemblies/HotUpdate.dll.bytes
+- Assets/Assemblies/mscorlib.dll.bytes
+Dependencies: []

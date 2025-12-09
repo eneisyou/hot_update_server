@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.62f1
+CRC: 49572271
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ea2385c8f5339b6b0b09a56ab1c126d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d3c3c53cb80e5f8d5811cad6bec7496f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 365a43c782ce480a63622a894b36a648
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9a7676b01585ce43908639a27765dfc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a1bc992571301d4a9602ac95ef4c71a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43f86b14a27b52f4f9298c33015b5c26, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.Grab.PoseMeasureParameters
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.GrabAPI.GrabbingRule
+Assets:
+- Assets/Prefabs/Node2.prefab
+Dependencies: []
